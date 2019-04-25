@@ -1,6 +1,8 @@
 package edu.fzu.addressservice.addresscleanning;
 
-import edu.fzu.bigdatalab.addressrecognition.util.PropertyOpt;
+
+
+import edu.fzu.addressservice.util.PropertyOpt;
 
 import java.io.IOException;
 import java.util.*;
