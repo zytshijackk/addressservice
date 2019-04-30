@@ -7,7 +7,7 @@ import java.util.Properties;
 
 public class PropertyOpt {
 	/** 配置文件路径 */
-	public static final String CONFIG_FILE_PATH = "addressrecognition.properties";
+	public static final String CONFIG_FILE_PATH = "src/main/resources/addressrecognition.properties";
 
 	/** 单例对象 */
 	private static PropertyOpt config = null;
